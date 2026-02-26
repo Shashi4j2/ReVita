@@ -1,0 +1,37 @@
+{
+  "patients": {
+    "acdd2c33": {
+      "name": "Shubhi",
+      "age": 20,
+      "surgery_type": "Minor Surgery",
+      "surgery_date": "2026-02-26",
+      "doctor_name": "Dr. Sharma",
+      "doctor_email": "sd1530275@gmail.com",
+      "weight_kg": 55.0,
+      "height_cm": 166.0,
+      "id": "acdd2c33",
+      "created_at": "2026-02-26 09:47:06.595382"
+    }
+  },
+  "logs": {
+    "acdd2c33": [
+      {
+        "patient_id": "acdd2c33",
+        "pain_score": 5,
+        "swelling": "None",
+        "fever": 98.6,
+        "mobility": 5,
+        "wound_status": "Clean/Healing",
+        "medication_adherence": 8,
+        "pain_trend": "Stable",
+        "notes": "",
+        "date": "2026-02-26",
+        "days_post_surgery": 0,
+        "risk_level": "Low",
+        "risk_index": 0,
+        "timestamp": "2026-02-26 09:47:25.765482"
+      }
+    ]
+  },
+  "alerts": []
+}
